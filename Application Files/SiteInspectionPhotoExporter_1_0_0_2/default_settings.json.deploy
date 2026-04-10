@@ -1,0 +1,17 @@
+{
+  "step1": {
+    "header": "",
+    "footer": "",
+    "deafultTitle": "",
+    "imageScalePercent": 98
+  },
+  "step2": {
+    "lastFolderPath": ""
+  },
+  "step3": {
+    "templateName": ""
+  },
+  "step4": {
+    "outputDirectory": ""
+  }
+}
