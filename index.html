@@ -7,7 +7,7 @@
     <style>
         :root { color-scheme: light dark; }
         body { font-family: "Segoe UI", Arial, sans-serif; margin: 2rem; line-height: 1.6; }
-        .card { max-width: 760px; padding: 1.25rem 1.5rem; border: 1px solid #8884; border-radius: 12px; }
+        .card { max-width: 760px; margin: 0 auto; padding: 1.25rem 1.5rem; border: 1px solid #8884; border-radius: 12px; }
         .btn { display: inline-block; margin-right: .75rem; margin-top: .75rem; padding: .65rem 1rem; text-decoration: none; border-radius: 8px; border: 1px solid #2f6feb; background: #2f6feb; color: #fff; }
         .btn.secondary { background: transparent; color: inherit; border-color: #8886; }
         .muted { opacity: .8; font-size: .95rem; }
@@ -17,7 +17,7 @@
 <body>
     <div class="card">
         <h1>SiteInspectionPhotoExporter</h1>
-        <p class="muted">目前版本：<strong id="version">v1.0.0.0</strong></p>
+        <p class="muted">目前版本：<strong id="version">v1.0.0.3</strong></p>
         <p>請先下載並執行安裝程式：</p>
 
         <p>
@@ -31,12 +31,6 @@
         <ul>
             <li>應用程式啟動時會依 ClickOnce 設定自動檢查更新。</li>
             <li>若有新版本，會提示或自動更新（依你的 Publish 設定）。</li>
-        </ul>
-
-        <h3>注意事項</h3>
-        <ul>
-            <li>若你修改了 <code>.application</code> 檔名，請同步修改上方第二個連結。</li>
-            <li>此頁面必須與 <code>setup.exe</code>、<code>*.application</code>、<code>Application Files/</code> 放在同一個分支（<code>gh-pages</code>）的網站根目錄。</li>
         </ul>
     </div>
 </body>
