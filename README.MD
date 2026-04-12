@@ -10,4 +10,4 @@
 
 ## 操作說明
 
-- 工具軟體操作說明請看 [工程抽查照片輸出工具操作說明](08-工程抽查照片輸出工具操作說明.pdf)。
+- 工具軟體操作說明請看 [工程抽查照片輸出工具操作說明](https://zaocico.github.io/SiteInspectionPhotoExporter/docs/08-工程抽查照片輸出工具操作說明.pdf)。
